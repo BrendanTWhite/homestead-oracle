@@ -3,7 +3,7 @@ This project enables you to install Oracle 11g XE on Laravel's Homestead [base b
 [Vagrant] and [Puppet].
 
 ## Acknowledgements
-@BrendanTWhite's fork is only a small tweak away from Yajra's excellent work at [github.com/yajra/homestead-oracle](https://github.com/yajra/homestead-oracle).
+[BrendanTWhite](https://github.com/BrendanTWhite)'s fork is only a small tweak away from Yajra's excellent work at [github.com/yajra/homestead-oracle](https://github.com/yajra/homestead-oracle).
 
 Yajra's project was created based on the information in the following projects:
 
